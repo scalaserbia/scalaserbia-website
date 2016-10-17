@@ -1,0 +1,10 @@
+.page {
+  align-self: stretch;
+  width: 65%;
+  max-width: 40rem;
+  margin: 1rem 0.75rem;
+}
+
+.heading {
+  color: #db322d;
+}
