@@ -3,7 +3,11 @@
   "name": "scala-serbia-site",
   "homepage": "http://scalaserbia.rs",
   "twitter": "ScalaSerbia",
-  "repository": "https://github.com/scalaserbia/scalaserbia.github.io.git",
+  "repository": "https://github.com/scalaserbia/",
+  "facebook": "https://facebook.com/scalaserbia",
+  "slack": "",
+  "linkedin": "",
+  "youtube": "",
   "scripts": {
     "lint:js": "eslint --ignore-path .gitignore --fix .",
     "lint:css": "stylelint \"src/**/*.css\"",
